@@ -1,1 +1,4 @@
 z240618-lguplus.code-workspace
+*_answer
+tmp/*
+*.html
